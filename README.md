@@ -1,31 +1,37 @@
-# Lior Tsemah – Computer Science Projects Portfolio
+# 💼 Lior Tsemah – Projects Portfolio
 
-Welcome to my portfolio! This repository showcases a selection of academic and personal projects I've developed during my Computer Science studies at Tel Aviv University.
-
----
-
-## 📂 Projects
-
-### 🔹 [AVL Tree in Python](https://github.com/LiorTsemah/DataStructuresE01)
-> A self-balancing binary search tree implemented in Python, supporting efficient insertion, deletion, and search operations.  
-> Developed as part of an academic project in collaboration with [Ella Hazelbar](https://github.com/ellahazelbar).
-
-### 🔹 [Binomial Heap in Java](https://github.com/LiorTsemah/DataStructuresE02)
-> Java implementation of a **Binomial Heap**, a data structure that supports efficient merging of priority queues and fast minimum extraction.
-
-### 🔹 [K-Means Clustering – C & Python](https://github.com/LiorTsemah/software_project)
-> An implementation of the **K-Means** clustering algorithm, written in both **C** and **Python**, as part of a software project course.  
-> The algorithm clusters datasets based on Euclidean distance and includes performance optimizations using C extensions for Python.  
-> Includes:  
-> • Reading and processing input in Python  
-> • Core algorithm in C for speed  
-> • Full testing on multiple datasets
+Welcome to my GitHub portfolio!  
+Here you can find a selection of academic projects I've developed during my Computer Science studies at Tel Aviv University. Each project demonstrates different aspects of data structures, algorithms, and system-level programming.
 
 ---
 
-## 👩‍💻 About Me
+## 📊 Clustering Algorithm – Symmetric Non-negative Matrix Factorization (symNMF)
+- **Languages:** Python & C  
+- **Description:**  
+  A hybrid project combining **Python** (for data preprocessing and visualization) and **C** (for performance-critical matrix operations). Implemented a full pipeline for clustering using **symNMF**, including comparison to K-Means clustering.
+- **Repo:** [symNMF Clustering – software_project](https://github.com/LiorTsemah/software_project)
 
-I'm a 3rd-year Computer Science student at Tel Aviv University, with a strong interest in data structures, algorithms, and machine learning.  
-I enjoy combining theoretical foundations with hands-on development and practical problem-solving.
+---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lior-tsemah-625758377/)
+## 🌲 AVL Tree Implementation
+- **Language:** Python  
+- **Description:**  
+  A self-balancing binary search tree (AVL Tree) that maintains logarithmic height. Supports insertions, deletions, rotations, and balance checking.
+- **Repo:** [AVL Tree – DataStructuresE01](https://github.com/LiorTsemah/DataStructuresE01)
+
+---
+
+## ♻️ Binomial Heap Implementation
+- **Language:** Java  
+- **Description:**  
+  Implementation of a **binomial heap**, a data structure optimized for merging and priority queue operations. Developed as part of a data structures assignment.
+- **Repo:** [Binomial Heap – DataStructuresE02](https://github.com/LiorTsemah/DataStructuresE02)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [lior-tsemah](https://www.linkedin.com/in/lior-tsemah-625758377/)  
+- **GitHub:** [LiorTsemah](https://github.com/LiorTsemah)
+
+---
