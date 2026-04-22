@@ -19,7 +19,7 @@ Here you can find a selection of academic projects I've developed during my Comp
 - **Description:**  
   A self-balancing binary search tree (AVL Tree) that maintains logarithmic height. Supports insertions, deletions, rotations, and balance checking.
 - **Collaboration:** This project was done in collaboration with student Ella Bar.
-- **Repo:** [AVL Tree – DataStructuresE01](https://github.com/LiorTsemah/DataStructuresE01)
+- **Repo:** [AVL Tree – DataStructuresE01](https://github.com/LiorTsemah/DataStructures-E01.git)
 
 ---
 
@@ -28,7 +28,7 @@ Here you can find a selection of academic projects I've developed during my Comp
 - **Description:**  
   Implementation of a **binomial heap**, a data structure optimized for merging and priority queue operations. Developed as part of a data structures assignment.
 - **Collaboration:** This project was done in collaboration with student Ella Bar.
-- **Repo:** [Binomial Heap – DataStructuresE02](https://github.com/LiorTsemah/DataStructuresE02)
+- **Repo:** [Binomial Heap – DataStructuresE02](https://github.com/LiorTsemah/DataStructures-E02.git)
 
 ---
 
