@@ -10,7 +10,7 @@ Here you can find a selection of academic projects I've developed during my Comp
 - **Description:**  
   A hybrid project combining **Python** (for data preprocessing and visualization) and **C** (for performance-critical matrix operations). Implemented a full pipeline for clustering using **symNMF**, including comparison to K-Means clustering.
 - **Collaboration:** This project was done in collaboration with student Noy Netanel.
-- **Repo:** [symNMF Clustering – software_project](https://github.com/LiorTsemah/software_project)
+- **Repo:** [symNMF Clustering – software_project](https://github.com/LiorTsemah/SymNMF-Project.git)
 
 ---
 
